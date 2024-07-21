@@ -5,6 +5,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 import Typed from 'typed.js';
+import harsh from '../../public/harsh.png'
 
 
 const FirstSection = () => {
@@ -53,7 +54,7 @@ const FirstSection = () => {
           </div>
         </div>
         <div className="col-sm-6" data-aos="zoom-in"  data-aos-duration="1000">
-          <img className="img-1" src="public/harsh.png" alt="" width={200} />
+          <img className="img-1" src={harsh} alt="" width={200} />
         </div>
       </div>
     </div>

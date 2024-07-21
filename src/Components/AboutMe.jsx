@@ -1,11 +1,12 @@
 import React from "react";
 import "./AboutMe.css";
+import harsh from '../../public/harsh.png'
 const AboutMe = () => {
   return (
     <div className="container-sm">
       <div className="row text-center mx-auto w-100 text-light wid">
         <div className="col-sm-4 my-auto">
-          <img className="img-2" src="public/harsh.png" alt="Harsh" width={250} data-aos="zoom-in"  data-aos-duration="1000"/>
+          <img className="img-2" src={harsh} alt="Harsh" width={250} data-aos="zoom-in"  data-aos-duration="1000"/>
         </div>
         <div className="col-sm-8">
           <span className="text-center fw-bold abt"  data-aos="flip-left"
