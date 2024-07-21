@@ -5,7 +5,7 @@ const AboutMe = () => {
     <div className="container-sm">
       <div className="row text-center mx-auto w-100 text-light wid">
         <div className="col-sm-4 my-auto">
-          <img className="img-2" src="public\harsh.png" alt="Harsh" width={250} data-aos="zoom-in"  data-aos-duration="1000"/>
+          <img className="img-2" src="public/harsh.png" alt="Harsh" width={250} data-aos="zoom-in"  data-aos-duration="1000"/>
         </div>
         <div className="col-sm-8">
           <span className="text-center fw-bold abt"  data-aos="flip-left"
@@ -26,7 +26,7 @@ const AboutMe = () => {
               <p>DOB: <span className="Persnal-detail">12/04/2000</span></p>
               <p>Address: <span className="Persnal-detail">Indore MP</span></p>
               <p>Email: <span className="Persnal-detail">harshservi48@gmail.com</span></p>
-              <a href="public\Resume\HarshSepta12Resume (2).pdf" target="blank"><div className="btn btn-warning ms-5 cen">View Resume</div></a>
+              <a href="public/Resume/HarshSepta12Resume (2).pdf" target="blank"><div className="btn btn-warning ms-5 cen">View Resume</div></a>
             </div>
           </div>
         </div>

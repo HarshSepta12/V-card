@@ -16,7 +16,7 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public\ProjecImages\project1.png"
+              src="public/ProjecImages/project1.png"
               alt=""
             />
             <div className="abs">
@@ -31,7 +31,7 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public\ProjecImages\project2.png"
+              src="public/ProjecImages/project2.png"
               alt=""
             />
             <div className="abs">
@@ -45,7 +45,7 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public\ProjecImages\project3.png"
+              src="public/ProjecImages/project3.png"
               alt=""
             />
             <div className="abs">
@@ -71,7 +71,7 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public\ProjecImages\project5.png"
+              src="public/ProjecImages/project5.png"
               alt=""
             />
             <div className="abs">
@@ -85,7 +85,7 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public\ProjecImages\project7.png"
+              src="public/ProjecImages/project7.png"
               alt=""
             />
             <div className="abs">
@@ -99,7 +99,7 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public\ProjecImages\project8.png"
+              src="public/ProjecImages/project8.png"
               alt=""
             />
             <div className="abs">
