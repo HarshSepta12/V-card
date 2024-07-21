@@ -1,0 +1,26 @@
+.card{
+     border: 1px solid white !important;
+     background-color: black !important;
+     max-width: 370px;
+     border-radius: 10px;
+     box-shadow: rgba(160, 158, 22, 0.56) 0px 22px 70px 4px;
+}
+.skill-img{
+     width: 100px;
+     margin-top: 2rem !important;
+}
+.skill-img:hover{
+     box-shadow: rgba(233, 233, 231, 0.56) 0px 22px 70px 4px;
+     transition: 0.5s ease-in;
+}
+
+.web-color{
+     color: khaki;
+}
+
+@media  screen and (max-width: 576px) {
+     .skill-img {
+          width: 72px !important;
+          /* margin-top: 2rem !important; */
+      }
+}

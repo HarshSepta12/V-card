@@ -1,0 +1,29 @@
+.form-control {
+
+     background-color: var(--bs-body-bg);
+    
+   }
+   .khaki{
+    color: khaki;
+   }
+
+.form-control:focus {
+     color: rgb(76, 70, 20) !important;
+     background-color: var(--bs-body-bg);
+     border-color: #b9d617 !important;
+     outline: 0;
+     box-shadow: 0 0 0 0.25rem rgba(189, 253, 13, 0.25) !important;
+   }
+   .btn {
+     background-color: khaki !important;
+     color: black !important
+   }
+   .form-check-input:checked[type=checkbox] {
+     background-color: #70961c;
+     border-color: khaki;
+     
+   }
+/* .form-bg{
+     background-color: #a1a092 ;
+     color: black;
+} */

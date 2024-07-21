@@ -1,0 +1,35 @@
+.work-color{
+     color: khaki;
+}
+
+.img-section{
+     position: relative;
+}
+.abs{
+     color: khaki;
+     position: absolute;
+     top: 3rem;
+     left: 4.2rem;
+     display: none;
+     font-size: 20px;
+}
+.img-section:hover{
+     opacity: .9;
+}
+.img-section:hover .abs{
+     display: block;
+}
+.project-img{
+     width: 255px;
+     /* height: 255px; */
+     border: 1px solid rgb(255, 255, 0);
+     box-shadow: rgba(216, 206, 14, 0.655) 0px 30px 60px -12px inset, rgba(216, 206, 14, 0.655) 0px 18px 36px -18px inset;
+     border-radius: 10px;
+     overflow: hidden;
+     transition: all 0.5s ease-in ;
+     /* position: relative; */
+    
+}
+
+
+

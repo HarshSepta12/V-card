@@ -1,0 +1,40 @@
+.font{
+     font-size: 14px;
+     width: 100%;
+     margin: auto;
+}
+.abt{
+     font-size: 34px;
+}
+.letter {
+     max-width: 100%;
+     margin: 0 auto;
+     padding: 20px;
+
+     line-height: 1.6;
+ }
+ .letter p {
+     text-align:start;
+     text-indent: 30px;
+     margin-bottom: 20px;
+ }
+ .letter .header {
+     text-align: start;
+ }
+ .Persnal-detail{
+     color: rgb(102, 105, 108);
+ }
+ .img-2{
+    margin-top: -7rem;
+    margin-left: -2rem;
+ }
+
+ @media  screen and (max-width: 576px) {
+    .img-2{
+        margin-top: 2rem;
+    }
+    .font{
+        font-size: 14px;
+    }
+   
+}

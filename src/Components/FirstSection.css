@@ -1,0 +1,36 @@
+.container-sm{
+     /* border: 2px solid red ; */
+    
+}
+.row{
+     /* border: 2px solid blue !important; */
+     background-color: black;
+     color: #fff;
+
+}
+span{
+     color: khaki;
+}
+.btn-warning{
+     background-color: #b19338 !important;
+     border: none !important;
+}
+.link-anchor{
+     color: #fff;
+}
+.link-anchor:hover{
+     color: khaki;
+}
+.icon-1{
+     font-size: 20px;
+}
+/* @media  screen and (max-width: 650px) {
+     .row{
+          width: 200vw;
+     }
+} */
+@media  screen and (max-width: 576px) {
+     .img-1{
+          display: none !important;
+     }
+}

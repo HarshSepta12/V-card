@@ -1,0 +1,33 @@
+.experience-color{
+     color: khaki;
+}
+/* .dis{
+     display: none;
+} */
+
+.card-2{
+     width: 100% !important;
+     border: 1px solid white;
+     border-radius: 10px;
+     background-color: #2d094568;
+    
+}
+.card-2:hover{
+     background-color: khaki !important;
+     color: black;
+     transition: 0.5s ease-in;
+     .marginn{
+          color: black;
+     }
+    
+    
+}
+.marginn{
+     margin-left: 9rem !important;
+     font-size: 14px;
+     color: khaki;
+     font-weight: 700;
+}
+
+
+
