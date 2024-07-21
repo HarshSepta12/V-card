@@ -3,8 +3,7 @@ import "./ContactMe.css";
 import { MdWifiCalling3 } from "react-icons/md";
 import { MdOutlineMail } from "react-icons/md";
 import { MdLocationPin } from "react-icons/md";
-// import { FaInstagram } from "react-icons/fa";
-// import { FaXTwitter } from "react-icons/fa6";
+
 
 const ContactMe = () => {
   return (

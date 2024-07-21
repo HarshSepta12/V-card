@@ -1,6 +1,13 @@
 import React from "react";
 import "./MyWork.css";
 import { RiShareCircleFill } from "react-icons/ri";
+import project1 from '../../public/ProjecImages/project1.png';
+import project2 from '../../public/ProjecImages/project2.png';
+import project3 from '../../public/ProjecImages/project3.png';
+import project4 from '../../public/ProjecImages/project5.png';
+import project5 from '../../public/ProjecImages/project7.png';
+import project6 from '../../public/ProjecImages/project8.png';
+
 
 const MyWork = () => {
   return (
@@ -16,8 +23,8 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public/ProjecImages/project1.png"
-              alt=""
+              src={project1}
+              alt="project1"
             />
             <div className="abs">
             <a href="https://quiz-app-gold-pi.vercel.app/" target="blank">
@@ -31,8 +38,8 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public/ProjecImages/project2.png"
-              alt=""
+              src={project2}
+              alt="project2"
             />
             <div className="abs">
               <a href="https://todo-app-lemon-nu.vercel.app/" target="blank">
@@ -45,8 +52,8 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public/ProjecImages/project3.png"
-              alt=""
+              src={project3}
+              alt="project3"
             />
             <div className="abs">
             <a href="https://random-copy-image.vercel.app/" target="blank">
@@ -71,8 +78,8 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public/ProjecImages/project5.png"
-              alt=""
+              src={project4}
+              alt="project4"
             />
             <div className="abs">
             <a href="https://bootstrap-project02.vercel.app/" target="blank">
@@ -85,8 +92,8 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public/ProjecImages/project7.png"
-              alt=""
+              src={project5}
+              alt="project5"
             />
             <div className="abs">
               <a href="https://country-details-using-api.vercel.app/index.html">
@@ -99,8 +106,8 @@ const MyWork = () => {
           <div className="img-section">
             <img
               className="project-img"
-              src="public/ProjecImages/project8.png"
-              alt=""
+              src={project6}
+              alt="project6"
             />
             <div className="abs">
               <a href="https://calculator-mu-sandy.vercel.app/">
