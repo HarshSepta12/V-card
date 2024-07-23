@@ -6,3 +6,6 @@ body{
 span{
      color: khaki;
 }
+#root{
+     background-color: rgb(18, 3, 40) !important;
+}
