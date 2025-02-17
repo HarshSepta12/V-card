@@ -7,7 +7,7 @@ import project3 from "../../public/ProjecImages/project3.png";
 import project4 from "../../public/ProjecImages/project5.png";
 import project5 from "../../public/ProjecImages/project7.png";
 import project6 from "../../public/ProjecImages/project8.png";
-import project7 from "../../public/ProjecImages/project10git statsu.png";
+import project7 from "../../public/ProjecImages/project10.png";
 
 const MyWork = () => {
   return (
